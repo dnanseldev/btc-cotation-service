@@ -1,0 +1,7 @@
+export enum Period {
+    ONE_MINUTE = 60000,
+    FIVE_MINUTES = 300000,
+    FIFITEEN_MINUTS = 900000,
+    HOUR = 1800000,
+    DAILY = 86400000
+}
